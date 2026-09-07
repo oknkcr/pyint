@@ -1,0 +1,28 @@
+{
+ "signatures": [
+  {
+   "keyid": "e7aec9df13e13d5f9f0eed62f11856b5fa3f4da3e8915853db0f6fd9e305233b",
+   "sig": "75f1e4539132678e3b7c700c37d9d05f03f3f59cdd6ea90e42c9ee11e630f8f38353c2dbbd6951db8083705a71c0ec3770ee7477aab3a6f776ef807f2815ea0b"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2027-09-07T20:40:59Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "pyint-1.0.0.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "30f3cd58c409919571e5049be6c86e9924f1478b3c37533002cc56bc2f8f1ed2"
+    },
+    "length": 24088218
+   }
+  },
+  "version": 2
+ }
+}
